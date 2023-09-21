@@ -55,6 +55,8 @@ profile
 **/Builds/MacOSX/**/Intermediates.noindex
 **/doxygen/doc
 **/doxygen/build
+**/docs/doxygen/aidocs
+**/docs/doxygen/doxml
 **/.idea
 extras/Projucer/JUCECompileEngine.dylib
 
